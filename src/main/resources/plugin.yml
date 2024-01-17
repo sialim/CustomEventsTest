@@ -1,0 +1,7 @@
+name: CustomEvents
+version: '${project.version}'
+main: me.sialim.customevents.CustomEvents
+api-version: '1.20'
+commands:
+  gameover:
+    description: End a game with a winner and loser.
